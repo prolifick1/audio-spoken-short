@@ -39,6 +39,7 @@
 141129 The True Dhamma Has Disappeared \ \ Thanissaro Bhikkhu \ \ Dhamma Talk
 15 ODD Habits Keeping Sigma Males UNIQUE
 15 Things Women INSTANTLY Notice About Sigma Males
+15 Vue 3 Tips and Tricks
 15 min airplane white noise with ding sound
 16. The Babylonian Exile (Jewish History Lab)
 160124 Internal Wealth & Internal Beauty \ \ Thanissaro Bhikkhu \ \ Short Dhamma Talk
@@ -90,6 +91,7 @@ A Brief Intro to Unism ◯
 A Cup of Tea: ZEN Stories
 A Historian Breaks Down Oversimplified - Cold War (Part 1)
 A Teaching on the Middle Way Dhamma and Dependent Origination ~ Kaccānagotta Sutta - The Buddha
+AI is Evolving Faster Than You Think [GPT-4 and beyond]
 Adventure Dad
 Advice for young people: Invest in tools not knowledge | Bret Weinstein and Lex Fridman
 Adyashanti - "The Buddha Touching The Ground" Story
@@ -124,8 +126,10 @@ Bitcoin Q&A: Will Bitcoin Implement Privacy Features Similar to Monero?
 Bitcoin Q&A: Will Governments Let Privacy Coins Exist?
 Bitcoin: Modern Portfolio Theory and The Sharpe Ratio
 Breathing, Walking, and Letting Go by Thich Nhat Hanh
+Build Quickly. Easily. At Scale. Try it on Twilio.
 Calm Sound
 Can You Be Too Discliplined? - Jocko Willink
+ChatGPT Has A Serious Problem
 Chengyu Stories with Nico: Being Humble 不耻下问 | ChinesePod
 Chengyu Stories with Nico: Determination to Succeed 破釜沉舟 | ChinesePod
 Chengyu Stories with Nico: Pulling the Crops 拔苗助长 | ChinesePod
@@ -141,6 +145,7 @@ Cuando ya no esté: Yuval Noah Harari (Parte 1/2) | #0
 Cults: Materialism
 Curb Your Enthusiasm: The Two Larry Davids
 DETACH: For Better Decisions - Jocko Willink
+DNS Explained | Domain Name System | Cisco CCNA 200-301
 DON'T SAY "I'M PAYING CASH" at Car Dealerships - Auto Expert Kevin Hunter
 Dependent Origination Explained - A Key Buddhist Teaching
 Develop. Preview. Ship.
@@ -148,6 +153,7 @@ Dhammapada 1:  Suffering is Mind-made
 Dhammapada Verse 202: Nothing Like It
 Did Jesus Claim to be God? Rabbi Tovia Singer Explores the Gospels
 Difference between COIN, TOKEN and PROTOCOL - Programmer explains
+Discipline, Strategy, and Playing the Game - Jocko  Willink and Jordan Peterson
 Discovering Satoshi: David Chaum
 Don't make that portfolio MISTAKE...
 Duncan Trussell - Depressed? Fight for your life!
@@ -157,11 +163,12 @@ Edward Snowden: Crypto Is Heading In The Wrong Direction
 Edward Snowden: How Your Cell Phone Spies on You
 Elon Musk Talks About De-Population
 Elon Musk: F*ck that, we'll get it done | Lex Fridman Podcast Clips
-Elon Musk: How To Achieve 10x More Than Your Peers
+Elon Musk: How To Avoid Being Average
 Elon's Twitter Circus (With Updates)
 Evangelical Christian confronts Rabbi Tovia Singer at Jerusalem lecture: Bible says ‘Kiss the Son!’
 Everything you need to know about the Netlify platform
 F*ck That: An Honest Meditation
+Fall asleep to the Bible: Psalms 79-88 Whispered Scripture
 Fed Chairman Powell on the effects of the opioid crisis on the economy
 Fight club car crash scene
 Formula for Intrinsic value
@@ -197,12 +204,15 @@ GET TO KNOW: Ep. 9 - Surah Al-Fath - Nouman Ali Khan - Quran Weekly
 GETTING THINGS DONE by David Allen | Core Message (Remastered)
 GPT-3 bottleneck is training data | François Chollet and Lex Fridman
 GPT-3 is a major advance in AI | Scott Aaronson and Lex Fridman
+Genesis 25-30: Baby Battles
 Goals vs. Systems: HOW TO FAIL AND STILL WIN BIG by Scott Adams
 Google Embarrass Themselves (A.I. War Is Heating Up)
 Google Panics Over ChatGPT [The AI Wars Have Begun]
 Greg - The Flamboyant Kid on Curb Your Enthusiasm
 Guangzhou China. Modern Bustling City in Southern China
+Hashing Algorithms and Security - Computerphile
 Hashing: Why & How?
+Hello (World) Abstraction! - Computerphile
 Henry Rollins on why relationships don't work for him from (Joe Rogan Experience #906)
 Henry Rollins: The One Decision that Changed My Life Forever | Big Think
 Herzog on the obscenity of the jungle
@@ -217,10 +227,10 @@ How To Face Fear and Step Into Bravery - Jocko Willink
 How To Fool A Baboon Into Showing You Where To Find Water
 How To Make A Rude Person Instantly Regret Disrespecting You
 How To Make Better Decisions - Jocko Willink and Echo Charles
-How To Make Women Desperate For Your Attention
 How To Negotiate The BEST Deals
 How To Never Get Angry At People: The Internet's Favorite Rabbi Shares Life-Changing Wisdom
 How To Never Get Interrupted - Jocko Willink and Echo Charles
+How To Outsmart Anyone In An Argument
 How To SMASH DAYS When You Don't Feel Like It - Jocko Willink
 How US Will Respond if China Invades Taiwan
 How War in Ukraine Will Cause Russia To Collapse
@@ -233,11 +243,13 @@ How to Overcome Your Fear of Public Speaking | Eckhart Tolle
 How to Ruin a Party: The Philosophy of Curb Your Enthusiasm – Wisecrack Edition
 How to Trick Your Brain to Like Doing Hard Things – Atomic Habits by James Clear
 I am a hardcore Andrew Tate supporter because of this video!
+I applied to 50 jobs (social experiment)
 Improving Your Public Speaking Skills by Simerjeet Singh | 5 Practical Steps
 India Will Not Be The Next China
 Intelligence and Stupidity: The Orthogonality Thesis
 Introduction to Maven | Theory
 James Clear: THE 1%" DO THIS EVERYDAY! Copy It For 21 Days
+Java for the Haters in 100 Seconds
 Jiddu Krishnamurti —  Don't Join Anything
 Jocko Willink - Epic Speech About Discipline
 Joe Burrow Bengals Mini Movie || "Road to the Super Bowl"
@@ -249,6 +261,7 @@ Joe Rogan Speaks About Society and Escaping The 9 to 5
 Joe Rogan Watches 2020 Iowa Caucus Coin Flip w/Justin Martindale
 Joe Rogan on Patriot Act Reauthorization, Trump's Response to 75 Year Old Being Shoved to the Ground
 Joe Rogan on The Importance of Being Kind
+Jordan Peterson - No Goal, No Positive Emotion
 Jordan Peterson - Population Collapse Is Coming
 Jordan Peterson: The danger of antisocial males
 Kabbalist Explains Kabbalah and How it Originated
@@ -286,6 +299,7 @@ Nietzsche and Morality: The Higher Man and The Herd
 Nietzsche's Eternal Recurrence
 No Regrets.  Move Forward - Jocko Willink
 Noam Chomsky discusses the slogan "Support Our Troops"
+Normalization - 1NF, 2NF, 3NF and 4NF
 ONLY Sigma Males Understand These 12 WEIRD Things
 On being wrong | Kathryn Schulz
 Operation Paperclip - COLD WAR SPECIAL
@@ -296,6 +310,7 @@ Packet Radio (Post Apocalyptic Internet?) - Computerphile
 Pareto Principle (80/20 Rule) Intuition
 Patrick Bet-David Breaks Down The Difference Between Power vs. Force
 Pelley to Fed Chair: Are American banks safe today?
+Physical Toughness - why it matters
 Pitch Practice with Paul Buchheit and Sam Altman at Startup School SV 2016
 Prove Them Wrong
 Psalm 23: The Lord is My Shepherd
@@ -315,6 +330,7 @@ Rules Of American Football EXPLAINED FOR BEGINNERS
 Rules of Mental Toughness
 SPORTS 101 // Guide to American Football
 SPORTS 101 // Guide to the NFL
+STOICON '16: Bill Irvine - On Becoming an Insult Pacifist
 Sadhguru- Dont Be Identified As A Vegan Or Vegetarian.
 Sam Zell: US Heading for a Recession
 Seinfeld: Kramer on Marriage
@@ -325,12 +341,15 @@ Shenzhen: The Silicon Valley of Hardware (Full Documentary) | Future Cities
 Shoji: Birth and Death | Dogen Zenji
 Shreds of Wisdom -  Process of rebirth (Proces odradzania)
 Shreds of Wisdom - Anger (Gniew) - Ajahn Chah
+Shreds of Wisdom - Merit (Zasługa). B. Vimalaramsi
 Shreds of Wisdom - Simile of the tadpole (Porównanie do kijanki). Ajahn Brahm
 Shreds of Wisdom - The Path (Ścieżka) B. Vimalaramsi
 Simple Explanation of Maven and pom.xml
 Sleep to the Psalms. Nos 42-49, read out in a whisper
+Star Team Member who Slacks Off - Jocko Willink
 Start Saying I Don't Know
 Stateful vs Stateless Applications (Explained by Example)
+Stateful vs Stateless Architecture - System Design Basics
 Staying relevant as a programmer
 Stephen Krashen: Language Acquisition and Comprehensible Input
 Stoic optimism: Ryan Holiday at TEDxUChicago 2014
@@ -361,13 +380,16 @@ The Importance of the Relax Step
 The Matrix - Everything the Body Needs
 The Most Important Habit To Quickly Change Your Life – James Clear
 The Nature of Reality (Death, Rebirth and Reincarnation)
+The One Flirting Technique Women Find Irresistibly Attractive
 The Origins of Animal Sacrifice
 The Problem with Nuclear Fusion
 The Reason Behind The Sigma Males Aloofness
 The Shocking State of JavaScript // The Code Report
 The Sigma Male's Psychology of IGNORING Women
+The Silicon Valley Bank Collapse, Explained | WSJ
 The Solution to All your Problems - Nouman Ali Khan
 The Story of the Bible in 20 Minutes
+The Ten (10) Ox Herding Pictures  - Zen Buddhism
 The True Path to Chess Improvement
 The Ultimatum Take It OR Leave It | Chris Voss
 The Value of Great Friends
@@ -380,6 +402,7 @@ Thinking like a lawyer
 This Exercise CAUSES Hernias (IT'S VERY POPULAR!)
 This Joke Makes You Instantly Likable
 This is How You Solve Every Problem, the Navy SEAL Way | Jocko Willink | Goalcast
+This is Why You Should Make Every Day Count - Jocko Willink
 Timothy Leary - Think For Yourself. Part 2.
 Tom Brady: They Said He Would Be A Failure | Lewis Howes
 Top 10 Worst Foods For Diabetics. Stop Eating These NOW!
@@ -405,8 +428,9 @@ What Motivates Henry Rollins(JRE Podcast)
 What Stephen R. Covey Taught Me About Time Management.mp4
 What if Russia Was Muslim?
 What is Big Data? - Computerphile
-What is GitHub Pages?
+What is the Russian Attack Plan - Russian Invasion of Ukraine DOCUMENTARY
 What is the Tragedy of the Commons?
+What motivates HENRY ROLLINS? | The Art Movement clips
 What the heck is the event loop anyway? | Philip Roberts | JSConf EU
 What will AI Programming look like in 5 Years?
 Whispered Scripture: The Book of Malachi, complete, read in a whisper
@@ -430,7 +454,9 @@ XLVII - Yo me he asomado a las profundas simas - Rimas Bécquer
 YOU WILL NEVER MISS SALAH AFTER HEARING THIS
 YOU'LL NEVER MISS PRAYER AFTER THIS - NOUMAN ALI KHAN
 You Don't Know Sam Bankman's Endgame Yet | Martin Shkreli Talks Judge A. Kaplan Taking The FTX Case
+Zen Master Dogen 道元  - Selected Pointers for Meditation - Zen Buddhism
 Zhuangzi - The Sage of Uncertainty
+[Deleted video]
 [Deleted video]
 [Deleted video]
 [Deleted video]
@@ -440,10 +466,12 @@ bitsbytes 1
 bitsbytes 2
 code 1a
 fight club apartment blowup
+future.
 mitch hedberg and the ducks
 my favorite mitch hedberg joke
 sea waves [calm sound of waves in the sea] NO COPYRIGHT
 software 2
 🔵 So Much Truth in 2 Minutes. The Banking System is a Scam. Why Bitcoin Exists. (Parliament Debate)
 𝗖𝘂𝗿𝘁𝗶𝘀 𝗬𝗮𝗿𝘃𝗶𝗻: On Money & Power || 𝘎𝘳𝘢𝘺 𝘔𝘪𝘳𝘳𝘰𝘳
+ＳＴＯＩＣＷＡＶＥ: Reject Modernity, Embrace Stoicism | 💀🥀 Mixtape
 【中文音声】【步非烟】烟妈的电话
