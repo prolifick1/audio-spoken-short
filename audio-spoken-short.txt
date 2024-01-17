@@ -1,16 +1,14 @@
-"BE CAREFUL! This Is Serious..." - Robert Kiyosaki's Last WARNING
 "Don't tell people what you know. KEEP THEM POOR!" Robert Kiyosaki
-"I Can GUARANTEE This Is Happening Behind Closed Doors" | Chamath Palihapitiya Crypto (WATCH SEE)
 "I Will Destroy Sam bankman Fried!"- Michael Saylor Bitcoin Interview
 "The Eight Fallacies of Distributed Computing" by Stephen Asbury
-"These TWO Assets Will Save You When The Dollar Collapses.." - Jim Rogers
-"This $20 Asset Will Save You When Everything Crashes.." - Robert Kiyosaki
 'I Want To Be Unplugged From The MATRIX! ' - @TheAndrewSchulz On The Matrix
 'The Man Who Knits'
 002 Singly Linked Lists
+0303n3b1 Cleaning House \ \ Thanissaro Bhikkhu \ \ Dhamma Talks
 050316 Renunciation \ \ Thanissaro Bhikkhu \ \ Dhamma Talks
 07-27-09 Do You Act Like You Believe In Karma? - BBCorner
 090607 Lust \ \ Thanissaro Bhikkhu \ \ Dhamma Talks
+091018 Cleaning Up Your Personal Environment \ \ Thanissaro Bhikkhu \ \ Dhamma Talks
 1 Kings 1-8: Solomon's Splendor
 1 Kings 20-22: The Last Days of Ahab
 1. The Land of Israel in the Ancient World (Jewish History Lab)
@@ -75,11 +73,16 @@
 220311 Lessons from the Buddha’s Awakening \ \ Thanissaro Bhikkhu \ \ Dhamma Talk
 220318 Concentration Work \ \ Thanissaro Bhikkhu \ \ Dhamma Talk
 220721 Tell the Truth \ \ Thanissaro Bhikkhu \ \ Short Dhamma Talk
+220727 Intelligent Respect \ \ Thanissaro Bhikkhu \ \ Dhamma Talk
 221115 The Karma of Happiness \ \ Thanissaro Bhikkhu \ \ Short Dhamma Talk
 221121 Seclusion \ \ Thanissaro Bhikkhu \ \ Short Dhamma Talk
 221129 Gratitude \ \ Thanissaro Bhikkhu \ \ Short Dhamma Talk
 221211 Constancy \ \ Thanissaro Bhikkhu \ \ Short Dhamma Talk
 230101 Mental Karma \ \ Thanissaro Bhikkhu \ \ Dhamma Talk
+230708 Renunciation Isn’t Deprivation \ \ Thanissaro Bhikkhu \ \ Dhamma Talk
+230710 Smart About Lust \ \ Thanissaro Bhikkhu \ \ Dhamma Talk
+230807 Goodwill as Protection \ \ Thanissaro Bhikkhu \ \ Short Dhamma Talk
+230830 Cool Your Mind \ \ Thanissaro Bhikkhu \ \ Short Dhamma Talk
 3 Tips to Become a Powerful Human Being
 4   1   Software I 9 mins1
 4K Relaxing Nature Sounds - Short Video Clips of Nature
@@ -87,7 +90,6 @@
 7 Habits to Help Dominate in 2019
 7 Hair Rules All Men Must Follow
 7 Skills EVERY Sigma Male Needs To Master (Don't IGNORE These)
-A Brief Intro to Unism ◯
 A Cup of Tea: ZEN Stories
 A Historian Breaks Down Oversimplified - Cold War (Part 1)
 A Teaching on the Middle Way Dhamma and Dependent Origination ~ Kaccānagotta Sutta - The Buddha
@@ -101,19 +103,20 @@ Adyashanti - Letting Go of Fear
 Adyashanti - When Self Obsession Falls Away
 Adyashanti: Time is Running Out
 Ajahn Chah: Part 1 - Ch01 - The Middle Way Within
+Ajahn Punnadhammo The Preciousness of Human Rebirth, The Horrors of Samsara Jun 26 2021
 Alan Watts - Nature is a constantly fluctuating pattern
 Alan Watts - Passivity as the natural state
-Alan Watts ~ The Story of the Chinese Farmer
 Alice in Wonderland: How doth the little Crocodile
 All You Need To Know About Behavioral Interviews (for software engineers)
 AmericanPegasus
+Are you mentally STRONG? Here's a trick to know the answer
 Ask A Monk: Celibacy Revisited
 Asubha Meditation 1: Nine Charnel Ground Contemplations
 Becoming Finally Free: Adyashanti
 Before The Book of Genesis: The Real Story of Creation
 Being A Good Listener
 Being Alone/ Adyashanti
-Ben Shapiro’s Guide To Defend Yourself In An Argument
+Ben Shapiro's Verbal Tricks To Win Any Argument
 Best Alternative to Entrepreneurship
 Big Vagina - Curb Your Enthusiasm
 Bill Burr Epidemic of gold digging whores (HD)
@@ -127,8 +130,10 @@ Bitcoin Q&A: Will Governments Let Privacy Coins Exist?
 Bitcoin: Modern Portfolio Theory and The Sharpe Ratio
 Breathing, Walking, and Letting Go by Thich Nhat Hanh
 Build Quickly. Easily. At Scale. Try it on Twilio.
+COMPILER| INTERPRETER |Difference between Interpreter and Compiler| Interpreter vs Compiler Animated
 Calm Sound
 Can You Be Too Discliplined? - Jocko Willink
+ChatGPT Explained Completely.
 ChatGPT Has A Serious Problem
 Chengyu Stories with Nico: Being Humble 不耻下问 | ChinesePod
 Chengyu Stories with Nico: Determination to Succeed 破釜沉舟 | ChinesePod
@@ -146,7 +151,7 @@ Cults: Materialism
 Curb Your Enthusiasm: The Two Larry Davids
 DETACH: For Better Decisions - Jocko Willink
 DNS Explained | Domain Name System | Cisco CCNA 200-301
-DON'T SAY "I'M PAYING CASH" at Car Dealerships - Auto Expert Kevin Hunter
+DON'T SAY "I'M PAYING CASH" at Car Dealerships in 2024 - Auto Expert Kevin Hunter
 Dependent Origination Explained - A Key Buddhist Teaching
 Develop. Preview. Ship.
 Dhammapada 1:  Suffering is Mind-made
@@ -163,7 +168,6 @@ Edward Snowden: Crypto Is Heading In The Wrong Direction
 Edward Snowden: How Your Cell Phone Spies on You
 Elon Musk Talks About De-Population
 Elon Musk: F*ck that, we'll get it done | Lex Fridman Podcast Clips
-Elon Musk: How To Avoid Being Average
 Elon's Twitter Circus (With Updates)
 Evangelical Christian confronts Rabbi Tovia Singer at Jerusalem lecture: Bible says ‘Kiss the Son!’
 Everything you need to know about the Netlify platform
@@ -172,6 +176,7 @@ Fall asleep to the Bible: Psalms 79-88 Whispered Scripture
 Fed Chairman Powell on the effects of the opioid crisis on the economy
 Fight club car crash scene
 Formula for Intrinsic value
+From Stage Fright to Spotlight: Master Public Speaking with Simerjeet Singh's Transformational Guide
 Fundamental Concepts of Object Oriented Programming
 GDPR: What Is It and How Might It Affect You?
 GET TO KNOW: Ep. 10 - Surah Al-Hujurat - Nouman Ali Khan - Quran Weekly
@@ -221,11 +226,13 @@ How Does the NFL Work?
 How Elon Musk solves problems: First principles thinking explained | Lex Fridman Podcast Clips
 How It Works: The Great Firewall of China
 How Long Does Mobility Take?! (MY JOURNEY)
+How PRAYER can make you INDESTRUCTIBLE
 How Sigma Males Intimidate Others
 How The Pandora Papers Actually Work - How Money Works
+How To Actually Talk To Women
 How To Face Fear and Step Into Bravery - Jocko Willink
 How To Fool A Baboon Into Showing You Where To Find Water
-How To Make A Rude Person Instantly Regret Disrespecting You
+How To Make A Rude Person Look Insecure For Insulting You
 How To Make Better Decisions - Jocko Willink and Echo Charles
 How To Negotiate The BEST Deals
 How To Never Get Angry At People: The Internet's Favorite Rabbi Shares Life-Changing Wisdom
@@ -236,6 +243,7 @@ How US Will Respond if China Invades Taiwan
 How War in Ukraine Will Cause Russia To Collapse
 How the Lord's Prayer Contains All of Creation
 How to Accept and Embrace Change
+How to Apply Stoic Philosophy to Your Life | Tim Ferriss
 How to Build Mental Toughness – Antifragile by Nassim Taleb
 How to Control the Fight or Flight Response - Jocko Willink
 How to Deal With Getting Overwhelmed As A Leader - Jocko Willink
@@ -244,11 +252,10 @@ How to Ruin a Party: The Philosophy of Curb Your Enthusiasm – Wisecrack Editio
 How to Trick Your Brain to Like Doing Hard Things – Atomic Habits by James Clear
 I am a hardcore Andrew Tate supporter because of this video!
 I applied to 50 jobs (social experiment)
-Improving Your Public Speaking Skills by Simerjeet Singh | 5 Practical Steps
+IIS (Internet Information Services) - What is...
 India Will Not Be The Next China
 Intelligence and Stupidity: The Orthogonality Thesis
 Introduction to Maven | Theory
-James Clear: THE 1%" DO THIS EVERYDAY! Copy It For 21 Days
 Java for the Haters in 100 Seconds
 Jiddu Krishnamurti —  Don't Join Anything
 Jocko Willink - Epic Speech About Discipline
@@ -262,7 +269,6 @@ Joe Rogan Watches 2020 Iowa Caucus Coin Flip w/Justin Martindale
 Joe Rogan on Patriot Act Reauthorization, Trump's Response to 75 Year Old Being Shoved to the Ground
 Joe Rogan on The Importance of Being Kind
 Jordan Peterson - No Goal, No Positive Emotion
-Jordan Peterson - Population Collapse Is Coming
 Jordan Peterson: The danger of antisocial males
 Kabbalist Explains Kabbalah and How it Originated
 Kevin O'Leary - This Is Your Last Chance To Become Millionaire - My Most Sincere Advice To You
@@ -276,6 +282,7 @@ Limiting Your Activity (ZEN: Right Attitude) by Shunryu Suzuki
 Lithium 101 | National Geographic
 Luring Opponents into Underestimating Your Abilities - Jocko Willink and Echo Charles.
 MQ-9 REAPER: The Most Dangerous Military Drone on Earth
+MVC Explained in 4 Minutes
 Make Your Life Better Than a Movie (Anthony Bourdain) - Jocko Willink
 Michael Burry Makes 2023 Prediction You Shouldn't Ignore
 Michael Saylor Destroys Sam Bankman-Fried From FTX
@@ -288,13 +295,12 @@ Module Bundlers Explained... Webpack, Rollup, Parcel, and Snowpack
 Monty Python - Undertaker Sketch
 Motivation Mondays - The Madness of Excellence
 My Dinner With Andre - Clip 3 of 3 - Doing Things
-NEUROSCIENTIST: You will NEVER LACK Motivation Again
 NEXT MARKET CRASH: 8 Ways to Prepare for Economic Collapse
 NO ONE WANTS SENSUALITY - by Ajahn Nyanamoli Thero, Hillside Hermitage, Sri lanka.
 Nassim Taleb - DO NOT Try to be Resilient. Do this Instead
 Nassim Taleb - The BEST Methodology to INCREASE your Odds of SUCCESS at Anything [w/ Naval Ravikant]
 Neuralink is a wizard hat | Tim Urban and Lex Fridman
-New York let tech companies WRITE THE LAW!
+New York let tech companies write the law 😞
 Nietzsche and Morality: The Higher Man and The Herd
 Nietzsche's Eternal Recurrence
 No Regrets.  Move Forward - Jocko Willink
@@ -312,6 +318,7 @@ Patrick Bet-David Breaks Down The Difference Between Power vs. Force
 Pelley to Fed Chair: Are American banks safe today?
 Physical Toughness - why it matters
 Pitch Practice with Paul Buchheit and Sam Altman at Startup School SV 2016
+Powerful Habits Of The Insanely Wealthy
 Prove Them Wrong
 Psalm 23: The Lord is My Shepherd
 Q&A Exerpt : What is the most rewarding part of meditating every day?
@@ -334,6 +341,7 @@ STOICON '16: Bill Irvine - On Becoming an Insult Pacifist
 Sadhguru- Dont Be Identified As A Vegan Or Vegetarian.
 Sam Zell: US Heading for a Recession
 Seinfeld: Kramer on Marriage
+Serverless Was A Mistake | Prime Reacts
 Sex and Sugar - Addictions and How To Manage Them - MGTOW Monk
 Shanghai Street Style with Jamie: 嗲 Flirty Girls | ChinesePod
 Shanghai Street Style with Jamie: 蹩脚 Inferior Quality | ChinesePod
@@ -346,6 +354,7 @@ Shreds of Wisdom - Simile of the tadpole (Porównanie do kijanki). Ajahn Brahm
 Shreds of Wisdom - The Path (Ścieżka) B. Vimalaramsi
 Simple Explanation of Maven and pom.xml
 Sleep to the Psalms. Nos 42-49, read out in a whisper
+Splunk Review: Top Features, Pros, And Cons
 Star Team Member who Slacks Off - Jocko Willink
 Start Saying I Don't Know
 Stateful vs Stateless Applications (Explained by Example)
@@ -355,14 +364,13 @@ Stephen Krashen: Language Acquisition and Comprehensible Input
 Stoic optimism: Ryan Holiday at TEDxUChicago 2014
 Stoicism- Ancient Philosophy for Entrepreneurs
 Struggling with sexuality
-TED KACZYNSKI on The Power Process
-THE WARRIOR MINDSET - Why Suffering Is The Path To True Fulfillment | David Goggins Motivation
 Tao Te Ching Explained - MUST WATCH FILM
 Tercera ola - Alvin Toffler - La Tercera Ola
 Testosterone & Testosterone Replacement Therapy (TRT) | Dr. Peter Attia & Dr. Andrew Huberman
 Thanissaro Bhikkhu - Your Mind Is Lying To You
 The #1 Rule of the Mind | Marisa Peer
 The 10 Most Important Concepts For Coding Interviews (algorithms and data structures)
+The 12 Most Valuable Tax Deductions For Small Businesses (Do This Now!)
 The Art of Learning | Josh Waitzkin | Book Summary
 The Art of the Non-Apology
 The BIGGEST Cover Up In NFL History
@@ -374,16 +382,18 @@ The Broken Window Fallacy
 The Disturbing NFL Football Iceberg
 The Disturbing Reality of Cobalt Mining for Rechargeable Batteries
 The Divine Wisdom Of Rumi
-The FTX Collapse, Explained | What Went Wrong | WSJ
+The FTX Collapse, Explained | WSJ What Went Wrong
 The Greatest SCAM In History: FTX Crypto Explained | Erik Voorhees
+The Grim Reality Of Our Collapsing Population - Jordan Peterson
 The Importance of the Relax Step
 The Matrix - Everything the Body Needs
+The Middle East, After America || Peter Zeihan
 The Most Important Habit To Quickly Change Your Life – James Clear
 The Nature of Reality (Death, Rebirth and Reincarnation)
-The One Flirting Technique Women Find Irresistibly Attractive
 The Origins of Animal Sacrifice
 The Problem with Nuclear Fusion
 The Reason Behind The Sigma Males Aloofness
+The Ruthless Rise & Fall of California
 The Shocking State of JavaScript // The Code Report
 The Sigma Male's Psychology of IGNORING Women
 The Silicon Valley Bank Collapse, Explained | WSJ
@@ -392,26 +402,31 @@ The Story of the Bible in 20 Minutes
 The Ten (10) Ox Herding Pictures  - Zen Buddhism
 The True Path to Chess Improvement
 The Ultimatum Take It OR Leave It | Chris Voss
+The Value of F*** YOU money | Joe Rogan and Lex Fridman
 The Value of Great Friends
 The Value of Great Friends
 The biggest lie about programming?  REACTING to tech twitter
 The colossal problem with universal basic income | Douglas Rushkoff | Big Think
 The quick and dirty solution often wins | Vitalik Buterin and Lex Fridman
+The simulation was not created for us | Charles Isbell and Michael Littman and Lex Fridman
 Theater Kids
 Thinking like a lawyer
+This CLI Tool is AMAZING | Prime Reacts
 This Exercise CAUSES Hernias (IT'S VERY POPULAR!)
 This Joke Makes You Instantly Likable
 This is How You Solve Every Problem, the Navy SEAL Way | Jocko Willink | Goalcast
 This is Why You Should Make Every Day Count - Jocko Willink
 Timothy Leary - Think For Yourself. Part 2.
 Tom Brady: They Said He Would Be A Failure | Lewis Howes
+Tom Leykis The Godfather of MGTOW - Red Pill Moment
 Top 10 Worst Foods For Diabetics. Stop Eating These NOW!
 Top 8 developer habits: Teaching - Fun Fun Function
 Trigger a 'No', then get a That's Right | Talks at Google
+Trump's Disqualification: How We Got Here || Peter Zeihan
 Tulsi Gabbard on Ukraine and the Military Industrial Complex
 US World War 3 Plan
 USA vs China, The War You Can't See
-Uncle Bob's SOLID principles made easy 🍀 - in Python!
+Uncle Bob’s SOLID Principles Made Easy 🍀 - In Python!
 Very Serious Business
 WHY I CHOSE VUE OVER REACT AND WHY I'M NOT GOING BACK
 Walking Meditation - Dhamma reflection from Tan Ajahn Kalyano
@@ -420,10 +435,12 @@ Wars of the 2020s and 30s.
 Watch Crypto expert explain the Blockchain to Congress
 We've Reached The End of Sturgill Simpson
 Were the Unabomber’s Predictions About Technology Correct?
+Western Europe, After America || Peter Zeihan
 What Discipline Really Means - Jocko Willink
 What Elon Musk's 42,000 Satellites Could Do To Earth
 What Ibuprofen Does to the Body
 What Is God?
+What Makes A Good Cli Tool | Prime Explains
 What Motivates Henry Rollins(JRE Podcast)
 What Stephen R. Covey Taught Me About Time Management.mp4
 What if Russia Was Muslim?
@@ -436,12 +453,15 @@ What will AI Programming look like in 5 Years?
 Whispered Scripture: The Book of Malachi, complete, read in a whisper
 Whispered Scripture: listen to the Complete Book of Zephaniah
 Who's Tallest Canada
+Why (As A Millionaire) I Own NOTHING
 Why Alpha Males HATE Sigma Males So Much
 Why Cops Beat You In The Interrogation Room
 Why Does God Honor Jacob's Stolen Blessing? - David Wilber
+Why I Live Like A Monk
 Why Nietzsche HATED Stoicism | Philosophy
 Why People DETEST Sigma Males
 Why Reading Decreases Happiness - Jordan Peterson
+Why Should I Use a Health Savings Account (HSA)?
 Why Sigma Male Is Trending Everywhere
 Why Sigma Males Are The Most Dangerous Breed
 Why Sigma Males DON’T Care What YOU Think
@@ -460,6 +480,12 @@ Zhuangzi - The Sage of Uncertainty
 [Deleted video]
 [Deleted video]
 [Deleted video]
+[Deleted video]
+[Deleted video]
+[Deleted video]
+[Deleted video]
+[Private video]
+[Private video]
 [Private video]
 ali G and abortion
 bitsbytes 1
@@ -471,7 +497,7 @@ mitch hedberg and the ducks
 my favorite mitch hedberg joke
 sea waves [calm sound of waves in the sea] NO COPYRIGHT
 software 2
+you need to learn Ansible RIGHT NOW!! (Linux Automation)
 🔵 So Much Truth in 2 Minutes. The Banking System is a Scam. Why Bitcoin Exists. (Parliament Debate)
-𝗖𝘂𝗿𝘁𝗶𝘀 𝗬𝗮𝗿𝘃𝗶𝗻: On Money & Power || 𝘎𝘳𝘢𝘺 𝘔𝘪𝘳𝘳𝘰𝘳
 ＳＴＯＩＣＷＡＶＥ: Reject Modernity, Embrace Stoicism | 💀🥀 Mixtape
 【中文音声】【步非烟】烟妈的电话
